@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<div align="center">My name is Pawel, and I'm a Java developer with a passion for learning new technologies. I'm excited to share my projects and experiences with you. 
-
-In addition to my expertise in Java, I'm particularly interested in learning and working with Angular, Google Cloud Platform (GCP) and Kubernetes.</div>  
+<div align="center">My name is Pawel, and I'm a Java developer with a passion for learning new technologies. I'm excited to share my projects and experiences with you. In addition to my expertise in Java, I'm particularly interested in learning and working with Angular, Google Cloud Platform (GCP) and Kubernetes.</div>  
   
 
 - 🔭 I’m currently working on [My Dashboard](https://github.com/PawelKwidzinski/my-dashboard)  
