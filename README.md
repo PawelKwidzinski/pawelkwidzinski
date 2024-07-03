@@ -1,27 +1,17 @@
 ## Hi there 👋
 
-<div align="center">My name is Pawel, and I'm a Java developer with a passion for learning new technologies. I'm excited to share my projects and experiences with you. In addition to my expertise in Java, I'm particularly interested in learning and working with Angular, Google Cloud Platform (GCP) and Kubernetes.</div>  
+<div align="left">My name is Pawel, and I'm a Java developer with a passion for learning new technologies. I'm excited to share my projects and experiences with you. In addition to my expertise in Java, I'm particularly interested in learning and working with Angular, Google Cloud Platform (GCP) and Kubernetes.</div>  
   
 
 - 🔭 I’m currently working on [My Dashboard](https://github.com/PawelKwidzinski/my-dashboard)  
-  
-
 - 🌱 I’m currently learning Angular and Kubernetes  
-  
-
 - 💬 Ask me about Java, Spring Boot, Full-Stack Development  
-  
-
 - ⚡ Fun fact: I use tabs over spaces  
   
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -33,8 +23,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -48,8 +36,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
@@ -61,7 +47,6 @@
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pawel-kwidzinski/" target="_blank">
@@ -71,15 +56,11 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pawelkwidzinski&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 
 <br/>  
 
