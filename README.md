@@ -3,9 +3,9 @@
 <div align="left">My name is Pawel, and I'm a Java developer with a passion for learning new technologies. I'm excited to share my projects and experiences with you. In addition to my expertise in Java, I'm particularly interested in learning and working with Angular, Google Cloud Platform (GCP) and Kubernetes.</div>  
   
 
-- 🔭 I’m currently working on [My Dashboard](https://github.com/PawelKwidzinski/my-dashboard)  
+- 🔭 I’m currently working on [Allergy Friendly Meals](https://github.com/PawelKwidzinski/allergy-friendly-meals)  
 - 🌱 I’m currently learning Angular and Kubernetes  
-- 💬 Ask me about Java, Spring Boot, Full-Stack Development  
+- 💬 Ask me about Java, Spring Boot
 - ⚡ Fun fact: I use tabs over spaces  
   
 <br/>  
