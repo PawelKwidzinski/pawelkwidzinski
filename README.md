@@ -3,7 +3,7 @@
 <div align="left">My name is Pawel, and I'm a Java developer with a passion for learning new technologies. I'm excited to share my projects and experiences with you. In addition to my expertise in Java, I'm particularly interested in learning and working with Angular, Google Cloud Platform (GCP) and Kubernetes.</div>  
   
 
-- 🔭 I’m currently working on [Allergy Friendly Meals](https://github.com/PawelKwidzinski/allergy-friendly-meals)  
+- 🔭 I’m currently working on [Allergy Friendly Meals](https://github.com/PawelKwidzinski/allergy-friendly-meals) and [Console and Games Social Sharing Network](https://github.com/PawelKwidzinski/console-and-games-rental)
 - 🌱 I’m currently learning Angular and Kubernetes  
 - 💬 Ask me about Java, Spring Boot
 - ⚡ Fun fact: I use tabs over spaces  
